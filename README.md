@@ -31,6 +31,8 @@ It automatically initializes. If you got space to scroll, it will fart now.
 ## Usage
 Its automagic.
 
+Example [here](example)
+
 ## Contributing
 
 1. Fork it ( http://github.com/rhgraysonii/volt-fartscroll/fork )
