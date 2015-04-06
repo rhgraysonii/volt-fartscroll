@@ -1,7 +1,9 @@
 # Volt-Fartscroll
 
 Make your app fart when someone scrolls.
+
 A Volt port of [The Onion's](http://www.github.com/theonion) [Fart Scroll](http://www.github.com/theonion/fartscroll.js).
+
 Plug and Play.
 
 ## Installation
