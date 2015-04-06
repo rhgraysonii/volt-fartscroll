@@ -1,6 +1,6 @@
-# Volt::Fartscroll
+# Volt-Fartscroll
 
-TODO: Write a gem description
+Make your app fart when someone scrolls. Plug and Play.
 
 ## Installation
 
@@ -16,13 +16,20 @@ Or install it yourself as:
 
     $ gem install volt-fartscroll
 
-## Usage
 
-TODO: Write usage instructions here
+and in `dependencies.rb`
+
+```RUBY
+component 'fartscroll'
+```
+
+It automatically initializes. If you got space to scroll, it will fart now.
+## Usage
+Its automagic.
 
 ## Contributing
 
-1. Fork it ( http://github.com/[my-github-username]/volt-fartscroll/fork )
+1. Fork it ( http://github.com/rhgraysonii/volt-fartscroll/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
